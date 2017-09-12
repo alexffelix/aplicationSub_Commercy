@@ -1,0 +1,37 @@
+﻿@model CommercyDomain.Entities.ShoppingExecuted
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ShoppingExecuted</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalShopping)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TotalShopping)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DtaShopping)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DtaShopping)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusShopping)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StatusShopping)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ShoppingExecutedId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

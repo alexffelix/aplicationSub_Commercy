@@ -1,0 +1,50 @@
+﻿@model CommercyDomain.Entities.Customer
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<h4>Customer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CustomerId" />
+            <div class="form-group">
+                <label asp-for="NameCustomer" class="control-label"></label>
+                <input asp-for="NameCustomer" class="form-control" />
+                <span asp-validation-for="NameCustomer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DtaBirth" class="control-label"></label>
+                <input asp-for="DtaBirth" class="form-control" />
+                <span asp-validation-for="DtaBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberPersonalDocument" class="control-label"></label>
+                <input asp-for="NumberPersonalDocument" class="form-control" />
+                <span asp-validation-for="NumberPersonalDocument" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AddressCustomer" class="control-label"></label>
+                <input asp-for="AddressCustomer" class="form-control" />
+                <span asp-validation-for="AddressCustomer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

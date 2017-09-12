@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CommercyDomain.Entities.AccountShopping>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CustomerIdAccountShopping)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ActiveAccountShopping)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DtaAccountShopping)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerIdAccountShopping)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActiveAccountShopping)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtaAccountShopping)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AccountShoppingId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AccountShoppingId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AccountShoppingId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

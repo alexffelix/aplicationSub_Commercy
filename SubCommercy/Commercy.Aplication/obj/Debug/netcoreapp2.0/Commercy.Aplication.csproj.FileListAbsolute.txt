@@ -1,0 +1,26 @@
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.deps.json
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.AssemblyInfoInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.AssemblyInfo.cs
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.csprojResolveAssemblyReference.cache
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.dll
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\CommercyDomain.dll
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\bin\Debug\netcoreapp2.0\CommercyDomain.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.deps.json
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Aplication.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\CommercyDomain.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\bin\Debug\netcoreapp2.0\CommercyDomain.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.csprojResolveAssemblyReference.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.AssemblyInfoInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.AssemblyInfo.cs
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\Commercy.Aplication\obj\Debug\netcoreapp2.0\Commercy.Aplication.pdb

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CommercyDomain.Entities.ShoppingExecuted>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TotalShopping)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DtaShopping)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StatusShopping)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalShopping)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtaShopping)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatusShopping)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ShoppingExecutedId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ShoppingExecutedId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ShoppingExecutedId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

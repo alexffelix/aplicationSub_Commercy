@@ -1,0 +1,43 @@
+﻿@model CommercyDomain.Entities.Customer
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameCustomer)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NameCustomer)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DtaBirth)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DtaBirth)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NumberPersonalDocument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumberPersonalDocument)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressCustomer)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AddressCustomer)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CustomerId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

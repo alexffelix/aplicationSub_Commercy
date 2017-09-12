@@ -1,0 +1,38 @@
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.deps.json
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.runtimeconfig.json
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.runtimeconfig.dev.json
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.csprojResolveAssemblyReference.cache
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.csproj.CoreCompileInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.AssemblyInfoInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.AssemblyInfo.cs
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.CrossCutting.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyDomain.dll
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Aplication.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.CrossCutting.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.pdb
+C:\Projetos\Subway\Fonte\SubCommercy\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyDomain.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.deps.json
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.runtimeconfig.json
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.runtimeconfig.dev.json
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyWeb.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Aplication.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.CrossCutting.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyDomain.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Aplication.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.CrossCutting.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\Commercy.Infra.Data.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\bin\Debug\netcoreapp2.0\CommercyDomain.pdb
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.csprojResolveAssemblyReference.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.csproj.CoreCompileInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.AssemblyInfoInputs.cache
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.AssemblyInfo.cs
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.dll
+C:\Projetos\Subway\Fonte\SubCommercy - 11092017\CommercyWeb\obj\Debug\netcoreapp2.0\CommercyWeb.pdb
